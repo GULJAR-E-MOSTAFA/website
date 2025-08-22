@@ -1,0 +1,1 @@
+print('Advanced Web Scanner backend')

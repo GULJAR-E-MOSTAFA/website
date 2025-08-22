@@ -1,0 +1,1 @@
+print('DNS scan module')
